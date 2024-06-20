@@ -1,0 +1,4 @@
+django
+djangochannels
+pydub
+deepgram-sdk
